@@ -6,7 +6,7 @@ owslib==0.29.2
 pandas==2.1.1
 sinfo==0.3.4
 IPython==8.16.1
-jupyter_client==8.4.0
+jupyter_client==8.5.0
 jupyter_core==5.4.0
 jupyterlab==4.0.7
 notebook==7.0.5
