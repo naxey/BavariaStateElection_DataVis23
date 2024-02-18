@@ -1,7 +1,7 @@
 folium==0.15.1
 ipywidgets==8.1.2
 matplotlib==3.8.3
-numpy==1.26.3
+numpy==1.26.4
 owslib==0.29.3
 pandas==2.1.4
 sinfo==0.3.4
