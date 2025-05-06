@@ -8,5 +8,5 @@ sinfo==0.3.4
 IPython==9.2.0
 jupyter_client==8.6.3
 jupyter_core==5.7.2
-jupyterlab==4.4.1
+jupyterlab==4.4.2
 notebook==7.4.2
