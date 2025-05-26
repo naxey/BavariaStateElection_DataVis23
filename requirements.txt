@@ -7,6 +7,6 @@ pandas==2.2.3
 sinfo==0.3.4
 IPython==9.2.0
 jupyter_client==8.6.3
-jupyter_core==5.7.2
+jupyter_core==5.8.0
 jupyterlab==4.4.2
 notebook==7.4.2
