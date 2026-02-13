@@ -5,7 +5,7 @@ numpy==2.4.2
 owslib==0.35.0
 pandas==3.0.0
 sinfo==0.3.4
-IPython==9.9.0
+IPython==9.10.0
 jupyter_client==8.8.0
 jupyter_core==5.9.1
 jupyterlab==4.5.4
