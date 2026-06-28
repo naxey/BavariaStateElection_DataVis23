@@ -3,7 +3,7 @@ ipywidgets==8.1.8
 matplotlib==3.11.0
 numpy==2.5.0
 owslib==0.36.0
-pandas==3.0.3
+pandas==3.0.4
 sinfo==0.3.4
 IPython==9.14.1
 jupyter_client==8.9.1
